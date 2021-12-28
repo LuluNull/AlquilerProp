@@ -8,9 +8,10 @@ function Alquiler() {
             ArgenProp
         </p>
       </header>
-      <content className="Alq-content">
-          holis
-      </content>
+      <body className="Alq-content">
+        <h1 className="Alq-col1">holis1</h1>
+        <h1 className="Alq-col2">holis2</h1>
+      </body>
     </div>
   );
 }
