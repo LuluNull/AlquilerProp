@@ -10,7 +10,10 @@ function Alquiler() {
       </header>
       <body className="Alq-content">
         <h1 className="Alq-col1">holis1</h1>
-        <h1 className="Alq-col2">holis2</h1>
+        <h1 className="Alq-col2">
+          <div className="Columna2-a"> hola </div>
+          <div className="Columna2-b"> hola </div>
+          </h1>
       </body>
     </div>
   );

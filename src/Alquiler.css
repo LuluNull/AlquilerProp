@@ -23,5 +23,14 @@
 
 .Alq-col2{
   background-color: #9ED3B5;
-  width: 80vw
+  width: 80vw;
+  display: flex;
 }
+
+.Columna2-a{
+  background-color: #aec741;
+  width: 40vw;
+}
+.Columna2-b{
+  background-color: #da5e64;
+  width: 40vw;}
